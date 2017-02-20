@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685927937385",
+    "firebase_url": "https://collection-buddy-95e51.firebaseio.com",
+    "project_id": "collection-buddy-95e51",
+    "storage_bucket": "collection-buddy-95e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685927937385:android:9920ec17ca1097e0",
+        "android_client_info": {
+          "package_name": "com.fexcon.collectionbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685927937385-pmmqn2i1q2h7co7bfb7o9udpi6nnmetg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEsHhOp7gRgLtGosLGSiXJoq0kgMB1TnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
